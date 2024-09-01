@@ -1,5 +1,7 @@
 # Road-Accident-Analysis
 
+![Road Accident Dashboard](https://github.com/user-attachments/assets/ced1ce2d-a95c-4741-998c-1e0cae2eb485)
+
 # Introduction
 This project is aimed at developing a Tableau Dashboard for generating insights about road accident data in the United Kingdom.
 
